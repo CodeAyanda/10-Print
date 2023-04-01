@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\bin\Debug\10Print.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\bin\Debug\10Print.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\bin\Debug\10Print.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\10Print.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\_10Print.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\_10Print.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\10Print.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\10Print.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\10Print.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\10Print\10Print\obj\Debug\10Print.pdb
